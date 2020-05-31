@@ -1,0 +1,12 @@
+{
+  "Regestration":
+  {
+    "UserNameTextbox_name":"fld_username",
+    "email_Textbox_xpath":"//input[@name='fld_email']",
+    "gender_list_name": "sex"
+  },
+  "Login":
+  {
+
+  }
+}
